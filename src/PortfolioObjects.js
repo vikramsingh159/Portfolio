@@ -8,7 +8,7 @@ const introduce = {
   job: 'Front End Developer',
   description:
     'My Name is Vikram Singh. I was born in Dec 1996. I am a Front-End developer. I have listed my skills in the toolbox below. I am a web developer and I am always learning technologies in this field. I am currently focusing on React.',
-  resume: '#',
+  resume: 'https://drive.google.com/file/d/1eYCIWWuUJ5s2l9PQOzsrpw8jM31cNulP/view?usp=sharing',
   social: {
     github: 'https://github.com/vikramsingh159',
   },
