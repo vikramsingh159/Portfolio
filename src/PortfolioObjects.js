@@ -33,9 +33,18 @@ const projects = [
     sourceCode: 'https://github.com/vikramsingh159/keeper',
     livePreview: 'https://keeper-o4podnv15-vikramsingh159.vercel.app/',
   },
+  {
+    name: 'Movies APP',
+    id: 2,
+    description:
+      'This is a Movies rating app Imdb Clone search and rating movie list and movies details Projects.',
+    technologies: ['Html', 'Css', 'JavaScript', 'Bootstrap', 'ReactJs'],
+    sourceCode: 'https://github.com/vikramsingh159/movies-app',
+    livePreview: 'https://movies-app-red-seven.vercel.app/',
+  },
 ];
 
-const skills = ['Html', 'Css', 'JavaScript', 'ReactJs', 'Bootstrap', 'Git'];
+const skills = ['Html', 'Css', 'JavaScript', 'ReactJs',"Redux" , 'Bootstrap', 'Git'];
 
 const contact = {
   email: 'er.vikramsingh10@gmail.com',
