@@ -38,7 +38,7 @@ const projects = [
     id: 2,
     description:
       'This is a Movies rating app Imdb Clone search and rating movie list and movies details Projects.',
-    technologies: ['Html', 'Css', 'JavaScript', 'Bootstrap', 'ReactJs'],
+    technologies: ['Html', 'Css', 'JavaScript', 'Redux', 'style-components', 'Bootstrap' , 'ReactJs'],
     sourceCode: 'https://github.com/vikramsingh159/movies-app',
     livePreview: 'https://movies-app-red-seven.vercel.app/',
   },
