@@ -16,13 +16,13 @@ const introduce = {
 
 const projects = [
   {
-    name: 'E-SHOP',
+    name: 'Real-Estate',
     id: 1,
     description:
-      "This is a simple shop app static page payment page login and cart  (shop cart) with React.js . I used react-router-dom for routing. It's responsive.",
-    technologies: ['Css', 'JavaScript', 'Bootstrap', 'ReactJs'],
-    sourceCode: 'https://github.com/vikramsingh159/e-shop',
-    livePreview: 'https://e-shop-vikramsingh159.vercel.app/',
+      "This is a simple Ui Real-Estate project  with React.js . I used react-router-dom for routing. It's responsive.",
+    technologies: ['Css', 'JavaScript', 'material-ui','styled-components', 'ReactJs'],
+    sourceCode: 'https://github.com/vikramsingh159/real-estate',
+    livePreview: 'https://real-estate-mu-seven.vercel.app/',
   },
   {
     name: 'KEEPER',
@@ -44,7 +44,7 @@ const projects = [
   },
 ];
 
-const skills = ['Html', 'Css', 'JavaScript', 'ReactJs',"Redux" , 'Bootstrap', 'Git'];
+const skills = ['Html', 'Css', 'JavaScript', 'ReactJs',"Redux" , 'Bootstrap','Material UI' , 'Git'];
 
 const contact = {
   email: 'er.vikramsingh10@gmail.com',

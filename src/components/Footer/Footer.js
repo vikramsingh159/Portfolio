@@ -8,7 +8,7 @@ const Footer = () => (
             rel="noreferrer"
             className="link footer_link"
         >
-            Created By Vikram Singh
+           2022 © Copyright Vikram Singh. All Rights Reserved
         </a>
     </footer>
 );
