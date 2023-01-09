@@ -35,16 +35,25 @@ const projects = [
   },
   {
     name: 'Movies APP',
-    id: 2,
+    id: 3,
     description:
       'This is a Movies rating app Imdb Clone search and rating movie list and movies details Projects.',
     technologies: ['Html', 'Css', 'JavaScript', 'Redux', 'style-components', 'Bootstrap' , 'ReactJs'],
     sourceCode: 'https://github.com/vikramsingh159/movies-app',
     livePreview: 'https://movies-app-red-seven.vercel.app/',
   },
+  {
+    name: 'Youtube Clone ',
+    id: 4,
+    description:
+      'This is a Youtube clone app using RapidApi like youtube feed search and details video view details Projects.',
+    technologies: ['Html', 'Css', 'JavaScript', 'Redux', 'Mui' ,'RapidAPI', 'ReactJs'],
+    sourceCode: 'https://github.com/vikramsingh159/-youtube-clone-rapid-api',
+    livePreview: 'https://youtube-clone-rapid-avcb8u9e9-vikramsingh.vercel.app/',
+  },
 ];
 
-const skills = ['Html', 'Css', 'JavaScript', 'ReactJs',"Redux" , 'Bootstrap','Material UI' , 'Git'];
+const skills = ['Html', 'Css', 'JavaScript', 'ReactJs',"Redux" , 'Bootstrap','Material UI' ,'RapidAPI', 'Git'];
 
 const contact = {
   email: 'er.vikramsingh10@gmail.com',
