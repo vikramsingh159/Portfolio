@@ -8,7 +8,7 @@ const introduce = {
   job: 'Front End Developer',
   description:
     'My Name is Vikram Singh. I was born in Dec 1996. I am a Front-End developer. I have listed my skills in the toolbox below. I am a web developer and I am always learning technologies in this field. I am currently focusing on React.',
-  resume: 'https://drive.google.com/file/d/1eYCIWWuUJ5s2l9PQOzsrpw8jM31cNulP/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1tkmfaYWLvF3bu1k2aYkqmd98p2XRunqV/view?usp=sharing',
   social: {
     github: 'https://github.com/vikramsingh159',
   },
@@ -20,7 +20,7 @@ const projects = [
     id: 1,
     description:
       "This is a simple Ui Real-Estate project  with React.js . I used react-router-dom for routing. It's responsive.",
-    technologies: ['Css', 'JavaScript', 'material-ui','styled-components', 'ReactJs'],
+    technologies: ['Css', 'JavaScript', 'material-ui', 'styled-components', 'ReactJs'],
     sourceCode: 'https://github.com/vikramsingh159/real-estate',
     livePreview: 'https://real-estate-mu-seven.vercel.app/',
   },
@@ -38,7 +38,7 @@ const projects = [
     id: 3,
     description:
       'This is a Movies rating app Imdb Clone search and rating movie list and movies details Projects.',
-    technologies: ['Html', 'Css', 'JavaScript', 'Redux', 'style-components', 'Bootstrap' , 'ReactJs'],
+    technologies: ['Html', 'Css', 'JavaScript', 'Redux', 'style-components', 'Bootstrap', 'ReactJs'],
     sourceCode: 'https://github.com/vikramsingh159/movies-app',
     livePreview: 'https://movies-app-red-seven.vercel.app/',
   },
@@ -47,13 +47,13 @@ const projects = [
     id: 4,
     description:
       'This is a Youtube clone app using RapidApi like youtube feed search and details video view details Projects.',
-    technologies: ['Html', 'Css', 'JavaScript', 'Redux', 'Mui' ,'RapidAPI', 'ReactJs'],
+    technologies: ['Html', 'Css', 'JavaScript', 'Redux', 'Mui', 'RapidAPI', 'ReactJs'],
     sourceCode: 'https://github.com/vikramsingh159/-youtube-clone-rapid-api',
     livePreview: 'https://youtube-clone-rapid-avcb8u9e9-vikramsingh.vercel.app/',
   },
 ];
 
-const skills = ['Html', 'Css', 'JavaScript', 'ReactJs',"Redux" , 'Bootstrap','Material UI' ,'RapidAPI', 'Git'];
+const skills = ['Html', 'Css', 'JavaScript', 'ReactJs', "Redux", 'Bootstrap', 'Material UI', 'RapidAPI', 'Git'];
 
 const contact = {
   email: 'er.vikramsingh10@gmail.com',
